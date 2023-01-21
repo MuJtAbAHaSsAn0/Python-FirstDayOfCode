@@ -1,1 +1,1 @@
-print("Hello, do you wanna create your band name ?")
+print("Hello, My name is mujtaba ")
